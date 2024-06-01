@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KJKA99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C and VHDL
+- 👀 I’m interested in tech, design and sports
+- 🌱 I’m currently doing my bachelor thesis in Engineering Electronics (embedded systems, IoT)
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: kebbajeng.se or kebba@kebbajeng.se
 
